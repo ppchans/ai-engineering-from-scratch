@@ -4,21 +4,29 @@ Progress tracking for every phase and lesson.
 
 **Legend:** ✅ Complete | 🚧 In Progress | ⬚ Planned
 
-## Phase 0: Setup & Tooling — ⬚
+## Phase 0: Setup & Tooling — ✅
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 01 | Dev Environment | ⬚ |
-| 02 | Git & Collaboration | ⬚ |
-| 03 | GPU Setup & Cloud | ⬚ |
-| 04 | APIs & Keys | ⬚ |
+| 01 | Dev Environment | ✅ |
+| 02 | Git & Collaboration | ✅ |
+| 03 | GPU Setup & Cloud | ✅ |
+| 04 | APIs & Keys | ✅ |
+| 05 | Jupyter Notebooks | ✅ |
+| 06 | Python Environments | ✅ |
+| 07 | Docker for AI | ✅ |
+| 08 | Editor Setup | ✅ |
+| 09 | Data Management | ✅ |
+| 10 | Terminal & Shell | ✅ |
+| 11 | Linux for AI | ✅ |
+| 12 | Debugging & Profiling | ✅ |
 
-## Phase 1: Math Foundations — ⬚
+## Phase 1: Math Foundations — 🚧
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 01 | Linear Algebra Intuition | ⬚ |
-| 02 | Vectors, Matrices & Operations | ⬚ |
+| 01 | Linear Algebra Intuition | ✅ |
+| 02 | Vectors, Matrices & Operations | ✅ |
 | 03 | Matrix Transformations & Eigenvalues | ⬚ |
 | 04 | Calculus for ML — Derivatives & Gradients | ⬚ |
 | 05 | Chain Rule & Automatic Differentiation | ⬚ |
@@ -46,11 +54,11 @@ Progress tracking for every phase and lesson.
 | 12 | Hyperparameter Tuning & AutoML | ⬚ |
 | 13 | ML Pipelines & Experiment Tracking | ⬚ |
 
-## Phase 3: Deep Learning Core — ⬚
+## Phase 3: Deep Learning Core — 🚧
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 01 | The Perceptron — Where It All Started | ⬚ |
+| 01 | The Perceptron — Where It All Started | ✅ |
 | 02 | Multi-Layer Networks & Forward Pass | ⬚ |
 | 03 | Backpropagation from Scratch | ⬚ |
 | 04 | Activation Functions — ReLU, Sigmoid, GELU & Why | ⬚ |
@@ -125,12 +133,12 @@ Progress tracking for every phase and lesson.
 | 11 | Real-Time Audio Processing | ⬚ |
 | 12 | Build a Voice Assistant Pipeline | ⬚ |
 
-## Phase 7: Transformers Deep Dive — ⬚
+## Phase 7: Transformers Deep Dive — 🚧
 
 | # | Lesson | Status |
 |---|--------|--------|
 | 01 | Why Transformers — The Problems with RNNs | ⬚ |
-| 02 | Self-Attention from Scratch | ⬚ |
+| 02 | Self-Attention from Scratch | ✅ |
 | 03 | Multi-Head Attention | ⬚ |
 | 04 | Positional Encoding — Sinusoidal, RoPE, ALiBi | ⬚ |
 | 05 | The Full Transformer — Encoder + Decoder | ⬚ |
@@ -180,11 +188,11 @@ Progress tracking for every phase and lesson.
 | 11 | Sim-to-Real Transfer | ⬚ |
 | 12 | RL for Games | ⬚ |
 
-## Phase 10: LLMs from Scratch — ⬚
+## Phase 10: LLMs from Scratch — 🚧
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 01 | Tokenizers — BPE, WordPiece, SentencePiece | ⬚ |
+| 01 | Tokenizers — BPE, WordPiece, SentencePiece | ✅ |
 | 02 | Building a Tokenizer from Scratch | ⬚ |
 | 03 | Data Pipelines for Pre-Training | ⬚ |
 | 04 | Pre-Training a Mini GPT (124M) | ⬚ |
@@ -248,11 +256,11 @@ Progress tracking for every phase and lesson.
 | 09 | Browser Automation & Web Agents | ⬚ |
 | 10 | Build a Complete Tool Ecosystem | ⬚ |
 
-## Phase 14: Agent Engineering — ⬚
+## Phase 14: Agent Engineering — 🚧
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 01 | The Agent Loop | ⬚ |
+| 01 | The Agent Loop | ✅ |
 | 02 | Tool Dispatch & Registration | ⬚ |
 | 03 | Planning — TodoWrite, DAGs, Goal Decomposition | ⬚ |
 | 04 | Memory — Short-Term, Long-Term, Episodic | ⬚ |
@@ -284,11 +292,11 @@ Progress tracking for every phase and lesson.
 | 10 | Safety Boundaries — When to Stop | ⬚ |
 | 11 | Build an Autonomous Coding Agent | ⬚ |
 
-## Phase 16: Multi-Agent & Swarms — ⬚
+## Phase 16: Multi-Agent Phase 16: Multi-Agent & Swarms — ⬚ Swarms — 🚧
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 01 | Why Multi-Agent | ⬚ |
+| 01 | Why Multi-Agent | ✅ |
 | 02 | Agent Teams — Roles, Specialization, Delegation | ⬚ |
 | 03 | Communication Protocols | ⬚ |
 | 04 | Shared State & Coordination | ⬚ |
@@ -342,6 +350,6 @@ Progress tracking for every phase and lesson.
 
 ---
 
-**Total: 20 phases, 200+ lessons**
+**Total: 20 phases, 210+ lessons | 17 complete**
 
 Want to help? Pick any ⬚ lesson and submit a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).

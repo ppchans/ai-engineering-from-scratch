@@ -40,15 +40,23 @@ You learn AI. You build real things. You ship tools others can use.
 <table>
 <tr><td>
 
-### Phase 0: Setup & Tooling `4 lessons`
+### Phase 0: Setup & Tooling `12 lessons`
 > Get your environment ready for everything that follows.
 
 | # | Lesson | Type | Lang |
 |:---:|--------|:----:|------|
 | 01 | [Dev Environment](phases/00-setup-and-tooling/01-dev-environment/) | Build | Python, Node, Rust |
-| 02 | Git & Collaboration | Learn | -- |
-| 03 | GPU Setup & Cloud | Build | Python |
-| 04 | APIs & Keys | Build | Python, TS |
+| 02 | [Git & Collaboration](phases/00-setup-and-tooling/02-git-and-collaboration/) | Learn | -- |
+| 03 | [GPU Setup & Cloud](phases/00-setup-and-tooling/03-gpu-setup-and-cloud/) | Build | Python |
+| 04 | [APIs & Keys](phases/00-setup-and-tooling/04-apis-and-keys/) | Build | Python, TS |
+| 05 | Jupyter Notebooks | Build | Python |
+| 06 | Python Environments | Build | Python |
+| 07 | Docker for AI | Build | Python |
+| 08 | Editor Setup | Build | -- |
+| 09 | Data Management | Build | Python |
+| 10 | Terminal & Shell | Learn | -- |
+| 11 | Linux for AI | Learn | -- |
+| 12 | Debugging & Profiling | Build | Python |
 
 </td></tr>
 </table>
